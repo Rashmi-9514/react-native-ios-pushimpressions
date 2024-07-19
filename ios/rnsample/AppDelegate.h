@@ -1,3 +1,8 @@
+//  AppDelegate.h
+//  rnsamples
+//
+//  Created by Rashmi Yadav on 25/05/22.
+
 #import <React/RCTBridgeDelegate.h>
 #import <UIKit/UIKit.h>
 #import <CleverTap.h>
